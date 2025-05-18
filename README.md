@@ -26,3 +26,11 @@ Description: The summary description
 5.Analysis of actors/directors of different types of shows/movies?
 6.Does Netflix has more focus on TV Shows than movies in recent years?
 7.Understanding what content is available in different countries?
+
+
+Business Insights**
+=>Movies are still the most common, but TV Shows are growing fast and becoming more popular.
+=>Drama and Comedy are the most popular genres worldwide, making them a good choice for future content.
+=>December is a peak month for adding new content—possibly due to holidays and more viewers.
+=>Most content comes from the US, India, and the UK, showing strong production from these countries and chances to grow through local partnerships.
+=>A lot of content is made for adults, which means there's a good opportunity to create more shows and movies for kids.
